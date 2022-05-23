@@ -5,7 +5,7 @@ Web Developer with analytical skills developed by a solid background in clinical
 I am interested in part-time jobs and freelance projects that are both a challenge and fun. I am also a Clinical Psychologist with private practice. I like videogames, cats and almost every form of audiovisual entertainment.
 
 You can see my Portfolio here:
-[Portfolio](https://csancheze.github.io/Portfolio/)
+[Portfolio](https://csancheze.github.io/React-Portfolio/#about)
 
 <!---
 csancheze/csancheze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
